@@ -22,7 +22,8 @@ Dentro do repositório do front, rodar o comando `npm install` e em seguida `npm
 ### 
 Ao final desses passos, o projeto de Gestão de Estoque irá rodar localmente em sua máquina.
 ### 
-Com ele já em funcionamento, execute, no pgadmin, um script para popular o banco de dados, fornecido dentro da pasta do backend com o nome de "populate.sql".
+Com ele já em funcionamento, execute, no pgadmin, um script para popular o banco de dados, fornecido dentro da pasta do backend. [populate](backend/populate.sql).
+- **Obs**: Populei apenas as tabelas ```categoria``` e ```produto```. As outras tabelas vão ganhando conteúdo conforme as movimentações realizadas na aplicação. Não achei que fizesse sentido popular a tabela ```movimentacoes```, preferi que ela fosse ganhando corpo conforme as interações vão acontecendo.
 ## Após isso, pode ficar a vontade para navegar pela aplicação.
 - **Obs**: quando um determinado produto atingir a quantidade 0 no estoque, automático o status desse produto vai de "ativo" para "inativo".
 - **Obs**: o Diagrama Entidade Relacionamento está disponível na pasta inicial do projeto [DER](DER.jpeg)
