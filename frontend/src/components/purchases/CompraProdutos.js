@@ -104,7 +104,7 @@ function CompraProdutos({ produtos, triggerUpdate, setTriggerUpdate }) {
             </div>
           </div>
           <div className="d-grid">
-            <button type="submit" className="btn btn-primary">Comprar Produto</button>
+            <button type="submit" className="btn btn-primary">Dar baixa em Estoque</button>
           </div>
         </form>
       </div>
