@@ -17,4 +17,4 @@
 ### Com ele já em funcionamento, a 1° ação que deve ser realizada é o cadastro de categoria do produto, para que assim, seja liberada uma categoria de produto e poder ser possível o cadastro de produtos
 ## Após isso, pode ficar a vontade para navegar pela aplicação.
 - **Obs**: quando um determinado produto atingir a quantidade 0 no estoque, automático o status desse produto vai de "ativo" para "inativo".
-- **Obs**: o Diagrama Entidade Relacionamento está disponível na pasta inicial do projeto, nomeado de DER.jpeg
+- **Obs**: o Diagrama Entidade Relacionamento está disponível na pasta inicial do projeto, nomeado de **DER.jpeg**
